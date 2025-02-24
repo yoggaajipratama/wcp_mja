@@ -54,9 +54,7 @@ onMounted(async () => {
 })
 
 const login = async () => {
-    if (username.value == "" || password.value == "") {
-        alert('Invalid!')
-    }
+    if (username.value == "" || password.value == "") alert('Invalid!')
     else {
 
         try {
@@ -89,10 +87,10 @@ const login = async () => {
                 window.location.href = "/admin/dashboard"
             }
             else {
-                alert(loginResponse)
+                alert(loginResponse.message)
             }
         } catch (error) {
-            alert(error)
+            alert('Invalid!')
         }
     }
 }
