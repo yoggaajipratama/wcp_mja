@@ -1,0 +1,308 @@
+{
+  "id": {
+    "logo": "PT Marier Jaya Abadi",
+    "nav": {
+      "home": "Beranda",
+      "profile": "Profil",
+      "blog": "Blog",
+      "gallery": "Galeri",
+      "portfolio": "Portofolio",
+      "registration": "Registrasi",
+      "language": "Bahasa",
+      "company_profile": "Profil Perusahaan",
+      "legality": "Legalitas"
+    },
+    "hero": {
+      "description": "Kami berkomitmen menjadi perusahaan yang kompetitif andal dan terpercaya selalu memberikan solusi inovatif dan pelayanan terbaik bagi setiap pelanggan kami.",
+      "button": "Hubungi sekarang"
+    },
+    "gallery": {
+      "title": "Galeri",
+      "more": "Selengkapnya",
+      "less": "Lebih sedikit"
+    },
+    "title_service": "Layanan Kami",
+    "service": [
+      {
+        "image": "/img/construction_1.webp",
+        "name": "General Trading",
+        "description": "Di PT. Marier Jaya Abadi, kami berkomitmen untuk menyediakan layanan general trading yang andal dan efisien. Secara spesifik dikhususkan dalam penyediaan spare part mesin industri dengan jaringan supplier yang luas dan berpengalaman. Menyediakan berbagai macam spare part berkualitas, kami memastikan operasional mesin industri Anda berjalan dengan lancar dan efisien. Tim kami siap memberikan solusi yang tepat untuk kebutuhan spare part mesin industri Anda."
+      },
+      {
+        "image": "/img/news_1.webp",
+        "name": "Konstruksi",
+        "description": "Sebagai kontraktor berpengalaman, kami menawarkan layanan konstruksi bangunan pabrik yang komprehensif. Mulai dari pembuatan bangunan baru hingga perawatan dan perbaikan gedung yang ada. Tim profesional kami mampu menangani proyek konstruksi dari segala skala, dengan menjamin penyelesaian proyek tepat waktu dan sesuai anggaran. Layanan kami juga mencakup pembongkaran dan pemasangan mesin industri tekstil, perawatan mesin industri, overhaul mesin industri, dan perbaikan kendaraan truk."
+      },
+      {
+        "image": "/img/truck_1.webp",
+        "name": "Transporter",
+        "description": "Layanan transporter kami mencakup jasa angkutan barang Limbah Berbahaya & Beracun (LB3) dan Non B3 dengan berbagai jenis kendaraan, mulai dari cdd, tronton, hingga trailer. Dengan jangkauan layanan pengangkutan di Pulau Sumatera, Jawa, Bali dan NTT. Kami memastikan pengiriman barang Anda sampai ke tujuan dengan aman dan tepat waktu. Layanan kami juga mencakup Jasa ekspor impor barang dengan pelayanan door to door, memberikan kenyamanan dan efisiensi bagi bisnis Anda."
+      }
+    ],
+    "title_value": "Nilai-nilai Kami",
+    "value": [
+      {
+        "image": "/img/icons/deal.svg",
+        "name": "Berkomitmen",
+        "description": "Memiliki komitmen dan semangat yang tinggi untuk memberikan kepuasan kepada mitra dan pelanggan."
+      },
+      {
+        "image": "/img/icons/professional.svg",
+        "name": "Profesional",
+        "description": "Kami berusaha memberikan yang terbaik dan tepat waktu kepada seluruh pelanggan dan mitra kami."
+      },
+      {
+        "image": "/img/icons/meet.svg",
+        "name": "Fleksibel",
+        "description": "Kami berupaya memberikan kemudahan untuk pelanggan untuk memberikan layanan custom terbaik."
+      }
+    ],
+    "news": "Berita",
+    "registration": {
+      "title": "Registrasi",
+      "description_question": "Apa yang bisa kami bantu?",
+      "description_answer": "Silakan isi form registrasi disamping untuk melakukan pertukaran pesan dengan admin.",
+      "name": "Nama Lengkap",
+      "email": "Email",
+      "phone": "Nomor Telepon",
+      "password": "Kata Sandi",
+      "register_button": "Register"
+    },
+    "login": {
+      "title": "Chat",
+      "description_question": "Apa kegunaan login ini?",
+      "description_answer": "Login berfungsi agar pengunjung atau client dapat mengakses fitur chat dengan admin.",
+      "name": "Nama Lengkap",
+      "email": "Email",
+      "phone": "Nomor Telepon",
+      "password": "Kata Sandi",
+      "login_button": "Login"
+    },
+    "history": {
+      "title": "Sejarah singkat",
+      "description": "<p class=\"text-justify\">PT. Marier Jaya Abadi adalah perusahaan yang bermula dari CV Sukses Teknik yang di dirikan pada tahun 2002 yang bergerak dalam bidang Repair, Modifikasi, dan Trading mesin-mesin industry textile. Seiring berjalannya waktu dan kebutuhan pasar pada tahun 2009 CV. Sukses Teknik berubah menjadi PT.Putra Berkah Lesatari yang unit usahanya bertambah menjadi Import dan Export mesin mesin textile. Pada tahun 2022 PT. Putra Berkah Lestari berubah nama menjadi PT. Marier Jaya Abadi dengan tambahan unit usaha di bidang Kontruksi, Supplier serta Pengelolaan dan Transporter Limbah Berbahaya & Beracun (LB3) dan Non B3.</p>"
+    },
+    "vision": {
+      "vision_button": "Lihat Visi",
+      "title": "Visi Kami",
+      "description": "<p class='text-justify'>Menjadi perusahaan jasa logistik, general trading, kontruksi, serta Pengelolaan dan Transporter Limbah Berbahaya dan Beracun (LB3) dan non B3 yang terbaik untuk lingkungan dengan jaringan yang luas dan terintegrasi. <br><br>Kami berkomitmen menjadi perusahaan yang kompetitif, andal, dan terpercaya, selalu memberikan solusi inovatif dan pelayanan terbaik bagi setiap pelanggan kami.</p>",
+      "close_button": "Tutup"
+    },
+    "mission": {
+      "mission_button": "Lihat Misi",
+      "title": "Misi Kami",
+      "description": "<ul><li>Menyediakan pelayanan terbaik dalam bidang logistic dan transporter Limbah Berbahaya dan Beracun (LB3), memanfaatkan sistem, sarana dan prasarana serta sumber daya manusia yang profesional.</li><li>Membantu pelanggan dalam memaksimalkan efisiensi waktu dan biaya melalui solusi logistik yang cerdas dan terpadu.</li><li>Menjadi penyedia utama spare part mesin industri dan layanan kontruksi, termasuk pembuatan dan perawatan bangunan pabrik.</li><li>Mengutamakan kepuasan pelanggan dalam setiap layanan yang kami berikan.</li></ul>",
+      "close_button": "Tutup"
+    },
+    "legality": {
+      "title": "Legalitas Perusahaan"
+    },
+    "portfolio": {
+      "title": "Pelanggan Kami"
+    }
+  },
+  "en": {
+    "logo": "PT Marier Jaya Abadi",
+    "nav": {
+      "home": "Home",
+      "profile": "Profile",
+      "blog": "Blog",
+      "gallery": "Gallery",
+      "portfolio": "Portfolio",
+      "registration": "Registration",
+      "language": "Language",
+      "company_profile": "Company Profile",
+      "legality": "Legality"
+    },
+    "hero": {
+      "description": "We are committed to being a competitive, reliable and trustworthy company that always provides innovative solutions and the best service for each of our customers.",
+      "button": "Call now"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "more": "More",
+      "less": "Less"
+    },
+    "title_service": "Our Service",
+    "service": [
+      {
+        "image": "/img/construction_1.webp",
+        "name": "General Trading",
+        "description": "At PT. Marier Jaya Abadi, we are committed to providing reliable and efficient general trading services. Specifically specialized in providing spare parts for industrial machines with a wide and experienced supplier network. Providing a variety of quality spare parts, we ensure that your industrial machine operations run smoothly and efficiently. Our team is ready to provide the right solution for your industrial machine spare part needs."
+      },
+      {
+        "image": "/img/news_1.webp",
+        "name": "Construction",
+        "description": "As an experienced contractor, we offer comprehensive factory building construction services. From the construction of new buildings to the maintenance and repair of existing ones. Our professional team is capable of handling construction projects of all scales, ensuring on-time and budget-friendly project completion. Our services also include the dismantling and installation of textile industrial machines, industrial machine maintenance, machine overhauls, and truck repairs."
+      },
+      {
+        "image": "/img/truck_1.webp",
+        "name": "Transporter",
+        "description": "Our transporter services include Hazardous & Toxic Waste (LB3) and Non-B3 goods transportation services with various types of vehicles, from CDDs, trontons, to trailers. With transportation service coverage on the islands of Sumatra, Java, Bali and NTT. We ensure that your goods arrive at their destination safely and on time. Our services also include import and export services with door to door services, providing comfort and efficiency for your business."
+      }
+    ],
+    "title_value": "Our Value",
+    "value": [
+      {
+        "image": "/img/icons/deal.svg",
+        "name": "Committed",
+        "description": "Having high commitment and enthusiasm to provide satisfaction to partners and customers."
+      },
+      {
+        "image": "/img/icons/professional.svg",
+        "name": "Professional",
+        "description": "We strive to deliver the best and on-time services to all our customers and partners."
+      },
+      {
+        "image": "/img/icons/meet.svg",
+        "name": "Flexible",
+        "description": "We strive to provide ease for customers by offering the best custom services."
+      }
+    ],
+    "news": "News",
+    "registration": {
+      "title": "Registration",
+      "description_question": "How can we assist you?",
+      "description_answer": "Please fill out the registration form on the side to start messaging with the admin.",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "password": "Password",
+      "register_button": "Register"
+    },
+    "login": {
+      "title": "Chat",
+      "description_question": "What is the use of this login?",
+      "description_answer": "Login functions so that visitors or clients can access the chat feature with the admin.",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "password": "Password",
+      "login_button": "Login"
+    },
+    "history": {
+      "title": "Brief History",
+      "description": "<p class=\"text-justify\">PT. Marier Jaya Abadi is a company that originated from CV Sukses Teknik, founded in 2002, which operated in the fields of Repair, Modification, and Trading of textile industry machinery. Over time and in response to market demand, in 2009, CV. Sukses Teknik transformed into PT. Putra Berkah Lesatari, expanding its business to include the import and export of textile machinery. In 2022, PT. Putra Berkah Lestari changed its name to PT. Marier Jaya Abadi, with additional business units in Construction, Supply, and the Management and Transportation of Hazardous & Toxic Waste (LB3) and Non-LB3.</p>"
+    },
+    "vision": {
+      "vision_button": "View Vision",
+      "title": "Our Vision",
+      "description": "<p class='text-justify'>To become the best logistics service company, general trading, construction, as well as Hazardous and Toxic Waste (HTW) and non-HTW management and transporter for the environment with an extensive and integrated network. <br><br>We are committed to becoming a competitive, reliable, and trustworthy company, always providing innovative solutions and excellent service to each of our customers.</p>",
+      "close_button": "Close"
+    },
+    "mission": {
+      "mission_button": "View Mission",
+      "title": "Our Mission",
+      "description": "<ul><li>Provide the best service in the field of logistics and transportation of Hazardous and Toxic Waste (HTW), utilizing systems, facilities, infrastructure, and professional human resources.</li><li>Assist customers in maximizing time and cost efficiency through smart and integrated logistics solutions.</li><li>Become the leading provider of industrial machine spare parts and construction services, including the construction and maintenance of factory buildings.</li><li>Prioritize customer satisfaction in every service we provide.</li></ul>",
+      "close_button": "Close"
+    },
+    "legality": {
+      "title": "Legality of Company"
+    },
+    "portfolio": {
+      "title": "Our Customers"
+    }
+  },
+  "jp": {
+    "logo": "PT マリエール・ジャヤ・アバディ",
+    "nav": {
+      "home": "ホーム",
+      "profile": "プロフィール",
+      "blog": "ブログ",
+      "gallery": "ギャラリー",
+      "portfolio": "ポートフォリオ",
+      "registration": "登録",
+      "language": "言語",
+      "company_profile": "会社概要",
+      "legality": "法的情報"
+    },
+    "hero": {
+      "description": "当社は、競争力があり、信頼できる企業として、常に革新的なソリューションと最高のサービスをお客様に提供することをお約束します。",
+      "button": "今すぐ電話"
+    },
+    "gallery": {
+      "title": "ギャラリー",
+      "more": "さらに表示",
+      "less": "表示を減らす"
+    },
+    "title_service": "当社のサービス",
+    "service": [
+      {
+        "image": "/img/construction_1.webp",
+        "name": "一般取引",
+        "description": "PT マリエール・ジャヤ・アバディでは、信頼性が高く効率的な一般取引サービスを提供しております。特に、産業機械のスペアパーツ供給に特化し、広範かつ経験豊富なサプライヤーネットワークを持っています。高品質なスペアパーツを幅広く取り揃え、お客様の産業機械の円滑かつ効率的な運用を支援します。当社の専門チームが、お客様の機械部品のニーズに最適なソリューションを提供いたします。"
+      },
+      {
+        "image": "/img/news_1.webp",
+        "name": "建設",
+        "description": "経験豊富な施工業者として、工場建設サービスを包括的に提供しております。新築から既存建物の保守・修繕まで対応可能です。専門チームが、プロジェクトの規模を問わず、納期厳守かつ予算に応じた工事を実施いたします。また、繊維産業機械の解体・設置、機械メンテナンス、オーバーホール、トラック修理などのサービスも提供しております。"
+      },
+      {
+        "image": "/img/truck_1.webp",
+        "name": "輸送サービス",
+        "description": "当社の輸送サービスでは、有害廃棄物（LB3）および非LB3商品の輸送を提供し、CDD車両、大型トラック、トレーラーなど様々な車両タイプに対応しております。輸送エリアはスマトラ、ジャワ、バリ、NTT諸島まで広がり、お客様の商品を安全かつ迅速に目的地へお届けします。また、輸出入のドア・ツー・ドアサービスを提供し、お客様のビジネスの利便性と効率性を高めます。"
+      }
+    ],
+    "title_value": "当社の価値観",
+    "value": [
+      {
+        "image": "/img/icons/deal.svg",
+        "name": "コミットメント",
+        "description": "パートナーやお客様の満足を追求する強い意志と情熱を持っています。"
+      },
+      {
+        "image": "/img/icons/professional.svg",
+        "name": "プロフェッショナル",
+        "description": "すべてのお客様やパートナーに対し、最高品質かつ期限厳守のサービスを提供します。"
+      },
+      {
+        "image": "/img/icons/meet.svg",
+        "name": "柔軟性",
+        "description": "お客様のニーズに応じた最適なカスタムサービスを提供し、利便性を向上させます。"
+      }
+    ],
+    "news": "ニュース",
+    "registration": {
+      "title": "登録",
+      "description_question": "どのようにお手伝いできますか？",
+      "description_answer": "管理者とメッセージを開始するには、登録フォームに必要事項を入力してください。",
+      "name": "氏名",
+      "email": "メールアドレス",
+      "phone": "電話番号",
+      "password": "パスワード",
+      "register_button": "登録"
+    },
+    "login": {
+      "title": "チャット",
+      "description_question": "このログインの目的は何ですか？",
+      "description_answer": "訪問者やクライアントが管理者とチャット機能を利用できるようにするためのものです。",
+      "name": "氏名",
+      "email": "メールアドレス",
+      "phone": "電話番号",
+      "password": "パスワード",
+      "login_button": "ログイン"
+    },
+    "history": {
+      "title": "会社沿革",
+      "description": "<p class=\"text-justify\">PT マリエール・ジャヤ・アバディは、2002年に設立されたCV スクセス・テクニックから発展した企業です。当初は繊維産業機械の修理・改造・取引を手掛けていましたが、市場の需要に対応するため、2009年にPT プトラ・ベルカ・レスタリへと法人化し、繊維機械の輸出入事業を拡大しました。2022年には社名をPT マリエール・ジャヤ・アバディに変更し、建設、供給、そして有害廃棄物（LB3）および非LB3の管理・輸送事業を追加しました。</p>"
+    },
+    "vision": {
+      "vision_button": "ビジョンを見る",
+      "title": "当社のビジョン",
+      "description": "<p class='text-justify'>広範で統合されたネットワークを持つ最高の物流サービス会社、一般取引、建設、有害廃棄物（HTW）および非HTW管理・輸送企業を目指します。<br><br>競争力があり、信頼される企業として、常に革新的なソリューションと優れたサービスを提供することをお約束します。</p>",
+      "close_button": "閉じる"
+    },
+    "mission": {
+      "mission_button": "ミッションを見る",
+      "title": "当社のミッション",
+      "description": "<ul><li>専門的なシステム、施設、インフラ、人材を活用し、有害廃棄物（HTW）物流・輸送分野で最高のサービスを提供する。</li><li>スマートかつ統合された物流ソリューションを通じて、お客様の時間とコストの効率化を支援する。</li><li>産業機械のスペアパーツ供給や、工場建設・保守サービスの主要なプロバイダーとなる。</li><li>すべてのサービスにおいて、お客様の満足を最優先する。</li></ul>",
+      "close_button": "閉じる"
+    },
+    "legality": {
+      "title": "会社の法的情報"
+    },
+    "portfolio": {
+      "title": "お客様"
+    }
+  }
+}
