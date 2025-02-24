@@ -159,12 +159,13 @@ const saveGallery = async () => {
             fetchGallery();
             closeModal();
         } else {
-            alert("Penyimpanan gagal!");
+            alert(responseMessage)
+            // alert("Penyimpanan gagal!");
             closeModal();
         }
     } catch (error) {
-        
-        alert("Penyimpanan gagal!");
+        alert(error)
+        // alert("Penyimpanan gagal!");
         closeModal();
     }
 };
