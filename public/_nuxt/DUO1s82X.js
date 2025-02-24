@@ -1,0 +1,1 @@
+import{_ as t}from"./BgmyOc-H.js";import{_ as o,t as n,v as c,z as _}from"./DVE9pVop.js";const r={};function a(s,m){const e=t;return c(),n("div",null,[_(e)])}const l=o(r,[["render",a]]);export{l as default};

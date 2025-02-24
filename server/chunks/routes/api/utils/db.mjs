@@ -3,8 +3,8 @@ import mysql from 'mysql2';
 const createConnection = async () => {
   return mysql.createConnection({
     host: "localhost",
-    user: "admin",
-    password: "japan999",
+    user: "root",
+    password: "",
     database: "wcp_mja"
   });
 };

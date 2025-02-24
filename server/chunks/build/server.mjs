@@ -962,7 +962,7 @@ const plugins = [
   cookies_fWsGjKD4Pq
 ];
 const layouts = {
-  default: defineAsyncComponent(() => import('./default-SEbOV6zN.mjs').then((m) => m.default || m)),
+  default: defineAsyncComponent(() => import('./default-eH1JazoA.mjs').then((m) => m.default || m)),
   empty: defineAsyncComponent(() => import('./empty-CtXEwbtx.mjs').then((m) => m.default || m))
 };
 const LayoutLoader = defineComponent({
