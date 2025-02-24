@@ -17,7 +17,7 @@ export default defineEventHandler(async (event) => {
                 [usernameField],
                 (err, result) => {
                     if (err) {
-                        console.log(error)
+                        console.log(err)
                         reject(err)
                     }
                     else {

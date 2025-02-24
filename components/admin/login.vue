@@ -90,7 +90,7 @@ const login = async () => {
                 alert(loginResponse.message)
             }
         } catch (error) {
-            alert('Invalid!')
+            alert(error)
         }
     }
 }
