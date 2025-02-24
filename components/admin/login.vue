@@ -71,7 +71,6 @@ const login = async () => {
 
         const runtimeConfig = useRuntimeConfig()
         const token = runtimeConfig.public.token
-        console.log(token)
 
         const config = await fetch('/api/utils/sk', {
             method: 'POST',
