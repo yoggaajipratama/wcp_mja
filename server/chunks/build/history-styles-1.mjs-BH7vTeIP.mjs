@@ -1,4 +1,0 @@
-const history_vue_vue_type_style_index_0_scoped_cb65397b_lang = ".modal-overlay[data-v-cb65397b]{align-items:center;display:flex;height:100%;justify-content:center;left:0;opacity:0;position:fixed;top:0;transition:opacity .3s ease-in-out,visibility .3s ease-in-out;visibility:hidden;width:100%}.modal-overlay.fade-in[data-v-cb65397b]{opacity:1;visibility:visible}.modal-overlay.fade-out[data-v-cb65397b]{opacity:0;visibility:hidden}.animate-modal[data-v-cb65397b]{animation:slideIn-cb65397b .4s ease-out}@keyframes slideIn-cb65397b{0%{opacity:0;transform:translateY(-50px)}to{opacity:1;transform:translateY(0)}}.logo-animate[data-v-cb65397b]{transition:transform .4s ease-in-out}";
-
-export { history_vue_vue_type_style_index_0_scoped_cb65397b_lang as h };
-//# sourceMappingURL=history-styles-1.mjs-BH7vTeIP.mjs.map
