@@ -54,7 +54,9 @@ onMounted(async () => {
 })
 
 const login = async () => {
-    if (username.value == "" || password.value == "") alert('Invalid!')
+    if (username.value == "" || password.value == "") {
+        alert('Invalid!')
+    }
     else {
 
         try {
@@ -90,7 +92,7 @@ const login = async () => {
                 alert(loginResponse.message)
             }
         } catch (error) {
-            alert('Invalid!')
+            alert(error)
         }
     }
 }
