@@ -16,7 +16,10 @@ export default defineEventHandler(async (event) => {
                 `SELECT * FROM user WHERE username = ?`,
                 [usernameField],
                 (err, result) => {
-                    if (err) reject(err)
+                    if (err) {
+                        console.log(error)
+                        reject(err)
+                    }
                     else {
                         resolve(...result)
                     }
@@ -36,6 +39,7 @@ export default defineEventHandler(async (event) => {
             return JSON.stringify({ message: "You're password or username is wrong!" })
         }
     } catch (error) {
+        console.log(error)
         throw error
     }
     finally {
