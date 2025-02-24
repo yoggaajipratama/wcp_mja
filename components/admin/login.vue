@@ -47,7 +47,7 @@ onMounted(async () => {
 
         const loadDataLang = await fetch('/languages.json')
         if (!loadDataLang.ok) throw new Error(`Failed to load languages.json: ${loadDataLang.status}`)
-        
+
         const jsonData = await loadDataLang.json()
         dataLang.value = jsonData || {}
 
@@ -71,6 +71,7 @@ const login = async () => {
 
         const runtimeConfig = useRuntimeConfig()
         const token = runtimeConfig.public.token
+        console.log(token)
 
         const config = await fetch('/api/utils/sk', {
             method: 'POST',
